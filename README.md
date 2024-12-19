@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wigothehacker@gmail.com**
 
-- ⚡ Fun fact **I think I am a hacker but actually a physical hacker**
+- ⚡ Fun fact **I think I am a hacker but I am actually a physical hacker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
