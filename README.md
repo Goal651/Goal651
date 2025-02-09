@@ -32,4 +32,4 @@ You can reach me at [wigothehacker@gmail.com](mailto:wigothehacker@gmail.com).
 
 ## Language used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goal651&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goal651&layout=compact&theme=radical)
