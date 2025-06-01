@@ -1,35 +1,56 @@
 # Hi 👋, I'm Wilson Goal
 
-A passionate full-stack developer from Rwanda.
+🎯 A passionate full-stack developer from Rwanda.
 
-## 🔭 Current Work
+---
 
-I'm currently working on a social media platform.
+## 🌟 About Me
 
-## 🌱 Learning
+- 🔭 I’m currently working on a **social media platform**
+- 🌱 I’m currently learning **Java, C++**, and **Python**
+- 💬 Ask me about: **React**, **Express.js**, **Node.js**
+- 📫 Reach me at: **wigothehacker@gmail.com**
+- 🌐 All my projects are available at: [github.com/Goal651](https://github.com/Goal651/)
+- 😄 Pronouns: He/Him
+- 🌿 Nature & tech enthusiast
 
-I'm currently learning Java, C++, and Python.
+---
 
-## 👨‍💻 Projects
+## 🚀 My Skills
 
-All of my projects are available at [https://github.com/Goal651/](https://github.com/Goal651/).
+**Languages**:  
+`JavaScript` `Python` `Java` `C++` `HTML` `CSS`
 
-## 💬 Ask Me About
+**Tech & Tools**:  
+`React` `Node.js` `Express.js` `Tailwind CSS` `MongoDB` `Git` `PostgreSQL` `Linux` `Docker`
 
-- React
-- Express.js
-- Node.js
+**Soft Skills**:  
+- Communication  
+- Problem Solving  
+- Teamwork  
+- Sales & Negotiation
 
-## 📫 How to Reach Me
+---
 
-You can reach me at [wigothehacker@gmail.com](mailto:wigothehacker@gmail.com).
+## 📈 GitHub Stats
 
-## Connect with Me
+![Goal651's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goal651&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goal651&layout=compact&theme=tokyonight)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wilson-goal-bugiri/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/WilsonGoalBugiri)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=github)](https://iamwilsongoal.com)
+---
 
-## Language used
+## 🐍 GitHub Contribution Snake
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goal651&layout=compact&theme=radical)
+![GitHub Snake](https://github.com/Goal651/Goal651/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Website](https://img.shields.io/badge/Website-visit-informational)](https://yourwebsite.com)
+
+---
+
+✨ _Keep dreaming, and keep building!_ ✨
