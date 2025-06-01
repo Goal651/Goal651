@@ -1,11 +1,18 @@
-# Hi 👋, I'm Wilson Goal
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Goal651.Goal651" alt="visitor badge" />
+</p>
 
-🎯 A passionate full-stack developer from Rwanda.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+I'm+Wigo+the+Hacker!+👋" alt="Typing SVG" />
+</h1>
 
----
+<h3 align="center" color="purple">A passionate software developer from Rwanda</h3>
 
-## 🌟 About Me
+<br/>
 
+<div align="center">
+
+  <h2>🌟 A little About Me</h2>
 - 🔭 I’m currently working on a **social media platform**
 - 🌱 I’m currently learning **Java, C++**, and **Python**
 - 💬 Ask me about: **React**, **Express.js**, **Node.js**
@@ -13,44 +20,44 @@
 - 🌐 All my projects are available at: [github.com/Goal651](https://github.com/Goal651/)
 - 😄 Pronouns: He/Him
 - 🌿 Nature & tech enthusiast
+</div>
 
----
+<br/>
 
-## 🚀 My Skills
+<div align="center"> 
+  <a href="mailto:wigothehacker@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple" alt="gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</div>
 
-**Languages**:  
-`JavaScript` `Python` `Java` `C++` `HTML` `CSS`
+<br/>
+<hr/>
 
-**Tech & Tools**:  
-`React` `Node.js` `Express.js` `Tailwind CSS` `MongoDB` `Git` `PostgreSQL` `Linux` `Docker`
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
-**Soft Skills**:  
-- Communication  
-- Problem Solving  
-- Teamwork  
-- Sales & Negotiation
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,typescript,cpp,python,bash,powershell,react,php,nextjs,tailwind,nodejs,mysql,mongodb,sqlite,vscode,git,github,linux,windows" alt="skills" />
+</div>
 
----
+<br/>
+<hr/>
 
-## 📈 GitHub Stats
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
 
-![Goal651's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goal651&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goal651&layout=compact&theme=tokyonight)
+  ![snake gif](https://github.com/Goal651/Goal651/blob/output/github-snake-dark.svg)
+</div>
 
----
+<br/>
+<hr/>
 
-## 🐍 GitHub Contribution Snake
+<h2 align="center">⚡ Stats ⚡</h2>
 
-![GitHub Snake](https://github.com/Goal651/Goal651/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Goal651&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Website](https://img.shields.io/badge/Website-visit-informational)](https://yourwebsite.com)
-
----
-
-✨ _Keep dreaming, and keep building!_ ✨
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Goal651&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</div>
