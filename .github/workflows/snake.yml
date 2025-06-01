@@ -1,3 +1,5 @@
+
+
 name: GitHub Snake Game
 
 on:
@@ -7,6 +9,9 @@ on:
   push:
     branches:
       - main
+      
+permissions:
+  contents: write
 
 jobs:
   generate:
