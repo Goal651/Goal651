@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,cpp,python,bash,powershell,react,php,nextjs,tailwind,nodejs,mysql,mongodb,sqlite,vscode,git,github,linux,windows" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,typescript,cpp,python,bash,powershell,react,php,java,nextjs,tailwind,nodejs,mysql,mongodb,sqlite,vscode,git,github,linux,windows" alt="skills" />
 </div>
 
 <br/>
