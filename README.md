@@ -13,20 +13,19 @@
 <div align="center">
 
   <h2>🌟 A little About Me</h2>
-- 🔭 I’m currently working on a **social media platform**
-- 🌱 I’m currently learning **Java, C++**, and **Python**
-- 💬 Ask me about: **React**, **Express.js**, **Node.js**
-- 📫 Reach me at: **wigothehacker@gmail.com**
-- 🌐 All my projects are available at: [github.com/Goal651](https://github.com/Goal651/)
-- 😄 Pronouns: He/Him
-- 🌿 Nature & tech enthusiast
+ 🔭 I’m currently working on a <b>social media platform</b><br/>
+ 🌱 I’m currently learning <b>Java, C++, and Python</b><br/>
+ 💬 Ask me about: <b>React, Express.js, SpringBoot</b><br/>
+ 📫 Reach me at: <a href="mailto:wigothehacker@gmail.com">My email</a><br/>
+ 😄 Pronouns: He/Him<br/>
+ 🌿 Nature & tech enthusiast
 </div>
 
 <br/>
 
 <div align="center"> 
   <a href="mailto:wigothehacker@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail" />
   </a>
   <a href="https://www.linkedin.com/in/a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
