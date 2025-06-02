@@ -47,6 +47,6 @@
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Goal651&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-
+<br/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Goal651&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 </div>
