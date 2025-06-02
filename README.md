@@ -33,7 +33,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
@@ -42,16 +41,7 @@
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-
-  ![snake gif](https://github.com/Goal651/Goal651/blob/output/github-snake-dark.svg)
-</div>
-
-<br/>
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
