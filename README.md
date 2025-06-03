@@ -51,6 +51,6 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=Goal651&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goal651&layout=compact" alt="top_langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goal651&layout=compact&theme=dark" alt="top_langs"/>
 </div>
 
