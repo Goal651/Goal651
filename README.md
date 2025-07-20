@@ -7,38 +7,42 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0078FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Wilson+Goal" alt="Welcome!" />
 </p>
 
-<!-- Rainbow Divider -->
+<!-- Blue Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://user-images.githubusercontent.com/63889819/270119356-6e5b2e2e-2b7e-4e7e-8e2e-2e2e2e2e2e2e.svg" width="80%" alt="blue-divider"/>
 </p>
 
-<p align="center">
+<p align="center"></p>
   <img src="https://img.shields.io/badge/Software%20Developer-Rwanda-0078FF?style=for-the-badge&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=Goal651&style=for-the-badge&color=0078FF" alt="Profile views" />
 </p>
 
 <!-- Animated Emoji GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 </p>
 
-<!-- Rainbow Divider -->
+<!-- Blue Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://user-images.githubusercontent.com/63889819/270119356-6e5b2e2e-2b7e-4e7e-8e2e-2e2e2e2e2e2e.svg" width="80%" alt="blue-divider"/>
 </p>
 
 ## 🌟 About Me
 
-<div align="center">
-✨ <b>Passionate about building impactful software and solving real-world problems.</b> <br/>
-🌱 Currently learning: <b>Java, C++, Python, Cloud Computing</b> <br/>
-💬 Ask me about: <b>React, Express.js, SpringBoot, REST APIs, UI/UX</b> <br/>
-🌍 Based in Rwanda <br/>
-😄 Pronouns: He/Him <br/>
-🌿 Nature & tech enthusiast <br/>
-🎨 Fun Fact: I love blending technology with creativity! <br/>
-🏆 Hackathon winner, open source contributor, and lifelong learner.<br/>
-</div>
+<p align="center" style="font-size:1.15em;">
+  ✨ <b>Passionate about building impactful software and solving real-world problems.</b><br/>
+  <br/>
+  <b>🌱 Currently learning:</b> <span style="color:#0078FF;"><b>Network Security</b></span> 🛡️, <span style="color:#0078FF;"><b>Microservices</b></span> 🧩, and <span style="color:#0078FF;"><b>Cybersecurity</b></span> 🔒<br/>
+  <br/>
+  <b>💬 Ask me about:</b> <span>React ⚛️, Express.js 🚂, SpringBoot 🌱, REST APIs 🌐, UI/UX 🎨, <b>Cybersecurity</b> 🛡️</span><br/>
+  <br/>
+  🌍 <b>Based in:</b> Rwanda<br/>
+  😄 <b>Pronouns:</b> He/Him<br/>
+  🔒 <b>Cybersecurity enthusiast</b><br/>
+  🌿 <b>Nature & tech lover</b><br/>
+  <br/>
+  🚀 <b>Goal:</b> To contribute to secure, scalable systems and help make the web safer for everyone.<br/>
+</p>
 
 <!-- Wavy Divider -->
 <p align="center">
@@ -86,20 +90,10 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<!-- Wavy Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wavy.png" width="80%" />
-</p>
-
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goal651&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<!-- Rainbow Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Goal651&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&border_radius=20&border_color=0078FF" alt="GitHub stats" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -108,22 +102,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Goal651&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20&margin-h=15&column=4&title=Stars,Followers,Commits,Repositories,Issues,Contributions" alt="GitHub Trophies"/>
 </p>
 
-
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goal651&theme=blueberry&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goal651&theme=blueberry&hide_border=true&border_radius=20&border_color=0078FF" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Goal651&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Goal651&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&border_color=0078FF" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goal651&layout=compact&theme=blueberry&hide_border=true&border_radius=10" alt="Top Langs"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goal651&repo=vynqtalk&theme=blueberry&hide_border=true&border_radius=10" alt="Pinned Repo" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goal651&layout=compact&theme=blueberry&hide_border=true&border_radius=20&border_color=0078FF" alt="Top Langs"/>
 
-<!-- Rainbow Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </p>
 
 ## 🔥 What I'm Up To
