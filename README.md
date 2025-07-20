@@ -115,10 +115,7 @@
   <b>🤝 Open to:</b> <span>Collaborations, Freelance, Mentoring</span>
 </p>
 
-<!-- Wavy Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wavy.png" width="80%" />
-</p>
+
 
 ## 💬 Personal Quote
 
@@ -126,10 +123,6 @@
   🛡️ <i>"Securing the future, one line of code at a time."</i> <br/>— Wilson Goal
 </p>
 
-<!-- Rainbow Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</p>
 
 ## 📫 Connect with Me
 
@@ -155,10 +148,6 @@
   <b>Let's connect and build something amazing together!</b>
 </p>
 
-<!-- Rainbow Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</p>
 
 ## ☕ Support Me
 
@@ -171,10 +160,7 @@
   </a>
 </p>
 
-<!-- Rainbow Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
-</p>
+
 
 <!-- Easter Egg -->
 <details>
