@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=0078FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Wilson+Goal" alt="Welcome!" />
 </p>
 
-<!-- Blue Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63889819/270119356-6e5b2e2e-2b7e-4e7e-8e2e-2e2e2e2e2e2e.svg" width="80%" alt="blue-divider"/>
-</p>
 
 <p align="center"></p>
   <img src="https://img.shields.io/badge/Software%20Developer-Rwanda-0078FF?style=for-the-badge&logo=github" />
@@ -22,10 +18,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 </p>
 
-<!-- Blue Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63889819/270119356-6e5b2e2e-2b7e-4e7e-8e2e-2e2e2e2e2e2e.svg" width="80%" alt="blue-divider"/>
-</p>
 
 ## 🌟 About Me
 
@@ -44,10 +36,6 @@
   🚀 <b>Goal:</b> To contribute to secure, scalable systems and help make the web safer for everyone.<br/>
 </p>
 
-<!-- Wavy Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wavy.png" width="80%" />
-</p>
 
 ## 🚀 Featured Projects
 
