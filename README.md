@@ -17,11 +17,10 @@
 
 **Mobile & Full Stack Developer** passionate about creating **impactful solutions** for real-world problems.
 
-🎯 **Current Focus**: Mobile Development • React Native • Flutter  
+🎯 **Current Focus**: Mobile Development • React Native • Swift  
 🌱 **Learning**: Advanced Mobile Architecture • Microservices • Cloud-Native Development  
 💼 **Status**: Available for Freelance Projects  
 🌍 **Location**: Kigali, Rwanda  
-🔒 **Specialty**: Cybersecurity-focused Mobile Apps  
 
 > *"Building secure, scalable mobile solutions that make a difference"*
 
@@ -32,8 +31,8 @@
 
 <div align="center">
 
-**🚀 Mobile App Development** | React Native • Flutter • Cross-Platform Solutions  
-**🛡️ Security Auditing** | Penetration Testing • Vulnerability Assessment • OWASP Compliance  
+**🚀 Mobile App Development** | React Native • Swift • Cross-Platform Solutions  
+
 **⚡ Performance Optimization** | App Speed Enhancement • Memory Management • UX Improvements  
 **🎯 MVP Development** | Rapid Prototyping • 4-6 Week Delivery • Startup Solutions  
 
@@ -50,24 +49,10 @@
 | **Poultix AI Detection** | TensorFlow • React Native | 95% disease detection accuracy • Real-time analysis |
 | **VynqTalk Platform** | Spring Boot • WebSockets | 500+ active users • 99.9% uptime • End-to-end encryption |
 | **Agrifinance Mobile** | React Native • PostgreSQL | $50K+ agricultural loans processed • 200+ farmers onboarded |
-| **Real-time Chat App** | Java • WebSockets | 100+ concurrent users • Sub-second message delivery |
+
 
 </div>
 
-## 🔐 Security Expertise
-
-<div align="center">
-
-**🛡️ Mobile Application Security**  
-✓ **OWASP Mobile Top 10** compliance and mitigation  
-✓ **End-to-end encryption** implementation for sensitive data  
-✓ **Secure payment integration** with PCI DSS standards  
-✓ **Penetration testing** for existing mobile applications  
-✓ **Code obfuscation** and anti-reverse engineering  
-
-*Specialized in cybersecurity-focused mobile development*
-
-</div>
 
 ## 🚀 Featured Projects
 
@@ -98,8 +83,7 @@
 
 **Mobile Development**  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-007ACC?style=for-the-badge&logo=swift&logoColor=white)
 
 **Backend Development**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -147,7 +131,7 @@
 
 🚀 **Currently Building**: Advanced mobile solutions for agricultural and fintech sectors  
 🤖 **Experimenting**: AI-powered mobile applications with real-time analytics  
-🌱 **Learning**: Flutter Advanced Patterns • Cloud-Native Architecture • DevOps  
+🌱 **Learning**: Swift Advanced Patterns • Cloud-Native Architecture • DevOps  
 💼 **Open For**: Freelance Projects • Mobile App Development • Consulting  
 
 </div>
