@@ -27,7 +27,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Goal651&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20&margin-h=15&column=4&title=Stars,Followers,Commits,Repositories,Issues,Contributions" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=goal651&theme=algolia"/>
 </p>
 ## 📫 Connect with Me
 
