@@ -14,20 +14,17 @@
 
 ## 📊 Stats
 
-<div align="center">
-<div align="center">
+<div align="center" gapY="200">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Goal651&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D" alt="GitHub Streak" width="80%"/>
 
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Goal651&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goal651&layout=compact&theme=blueberry&hide_border=true&border_radius=20&border_color=0078FF" alt="Top Langs" width="80%"/>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goal651&layout=compact&theme=blueberry&hide_border=true&border_radius=20&border_color=0078FF" alt="Top Langs"/>
 
-</div>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=goal651&theme=algolia"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=goal651&theme=dark_dimmed&row=5&column=6&no-bg=true&no-frame=true" width="100%"/>
 </p>
 ## 📫 Connect with Me
 
