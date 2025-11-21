@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goal651&theme=dark_dimmed&row=5&column=6&no-bg=true&no-frame=true" width="100%"/>
+  <img src="https://github-trophies.vercel.app/?username=goal651&theme=dark_dimmed&row=5&column=6&no-bg=true&no-frame=true" width="100%"/>
 </p>
 
 **Let's build something amazing together! 🚀**
