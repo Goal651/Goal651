@@ -9,7 +9,7 @@
 <!-- Your block fits perfectly here -->
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Goal651&theme=transparent&hide_border=true&type=svg" 
+    src="https://streak-stats-tawny.vercel.app/?user=Goal651&theme=transparent&hide_border=true&type=svg" 
     alt="GitHub Streak" 
     width="70%"
     style="border: 2px solid #0078FF; border-radius: 10px; margin-bottom: 20px;"
