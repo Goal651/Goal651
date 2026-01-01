@@ -18,7 +18,7 @@
   <hr style="width:60%; border: 1.5px solid #0078FF; border-radius: 5px; margin: 25px auto;" />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goal651&theme=transparent&layout=compact&hide_border=true&border_radius=20&border_color=0078FF" 
+    src="https://top-lang-wigo.vercel.app/api/top-langs/?username=Goal651&theme=transparent&layout=compact&hide_border=true&border_radius=20&border_color=0078FF" 
     alt="Top Langs" 
     width="50%"
     style="border: 2px solid #0078FF; border-radius: 10px; margin-top: 20px;"
