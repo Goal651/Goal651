@@ -4,7 +4,7 @@
 
 <br>
 
-## 📊 Stats
+##  Stats
 
 <!-- Your block fits perfectly here -->
 <div align="center">
@@ -26,7 +26,7 @@
 </div>
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Goal651&theme=dark_dimmed&row=5&column=6&no-bg=true&no-frame=true" width="100%"/>
